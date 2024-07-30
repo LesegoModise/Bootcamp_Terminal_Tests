@@ -11,5 +11,5 @@ export function yearsAgo(Year) {
   //}*
   
   //console.log((new Date().getFullYear() - 2000))
-  console.log(yearsAgo(1976));
-  console.log(yearsAgo(2000));
+  // console.log(yearsAgo(1976));
+  // console.log(yearsAgo(2000));

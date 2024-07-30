@@ -1,8 +1,8 @@
 var itemList3 = [
-    {name : 'apples', qty : 40},
-    {name : 'pears', qty : 20},
-    {name : 'bananas', qty : 23},
-    {name : 'apples', qty : 37}
+  { name: 'apples', qty: 40 },
+  { name: 'pears', qty: 20 },
+  { name: 'bananas', qty: 23 },
+  { name: 'apples', qty: 37 }
 ];
 
 export function findItemsOver20(itemList3) {
@@ -14,6 +14,5 @@ export function findItemsOver20(itemList3) {
   }
   return itemsOver20;
 }
-console.log(findItemsOver20(itemList3));
+// console.log(findItemsOver20(itemList3));
 
-  
